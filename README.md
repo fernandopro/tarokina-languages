@@ -1,43 +1,57 @@
 # Tarokina Language Packs
 
-Language packs for [Tarokina Pro](https://arnelio.com) WordPress plugin.
+Remote language packs for the [Tarokina Pro](https://tarokina.com) WordPress plugin.
 
-## 🌍 Available Languages
+## How It Works
 
-| Locale | Language | Status |
-|--------|----------|--------|
-| es_ES | Spanish (Spain) | ✅ Available |
-| de_DE | German (Germany) | ✅ Available |
-| fr_FR | French (France) | ✅ Available |
-| ja | Japanese | ✅ Available |
-| zh_TW | Chinese (Taiwan) | ✅ Available |
+The Tarokina plugin automatically downloads translation packs from this repository when users change their WordPress language setting. No manual installation required.
 
-## 📦 How It Works
+## Available Languages (6)
 
-Tarokina Pro automatically downloads the correct language pack when:
-- You activate the plugin with a non-English WordPress locale
-- You change WordPress language in Settings → General
+| Flag | Language | Locale | Size | Link |
+|:----:|----------|--------|-----:|------|
+| 🇹🇼 | Chinese Traditional (Taiwan) | `zh_TW` | 156.0 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-zh_TW.zip) |
+| 🇫🇷 | French (France) | `fr_FR` | 154.8 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-fr_FR.zip) |
+| 🇩🇪 | German (Germany) | `de_DE` | 156.2 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-de_DE.zip) |
+| 🇮🇹 | Italian (Italy) | `it_IT` | 152.3 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-it_IT.zip) |
+| 🇯🇵 | Japanese | `ja` | 162.9 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-ja.zip) |
+| 🇪🇸 | Spanish (Spain) | `es_ES` | 151.4 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-es_ES.zip) |
 
-**No manual action required** - translations are fetched on-demand.
+## Current Version
 
-## 🔧 Manual Installation
+**v3.0.3** - Compatible with Tarokina Pro v3.0.3
 
-If automatic download fails, you can manually install translations:
+## Installation
 
-1. Download the ZIP for your language from [Releases](https://github.com/fernandopro/tarokina-languages/releases)
-2. Extract the contents to `wp-content/plugins/tarokina-2025/languages/`
-3. Refresh your WordPress admin
+Language packs are installed **automatically** by the Tarokina plugin:
 
-## 📋 Release Versioning
+1. Install and activate Tarokina Pro
+2. Go to **Settings → General → Site Language**
+3. Select your preferred language
+4. Tarokina will download the translation automatically
 
-Language packs are versioned to match Tarokina Pro versions:
-- `v3.0.3` → Compatible with Tarokina Pro 3.0.3
+## For Developers
 
-## 🤝 Contributing Translations
+### Adding a New Language
 
-Want to help translate Tarokina Pro to your language? Contact us at [arnelio.com](https://arnelio.com)
+1. Generate translation using OpenAI script
+2. Package with `npm run package-lang`
+3. Upload with `npm run upload-lang`
 
-## 📄 License
+See [Remote Languages Documentation](https://github.com/fernandopro/tarokina-2025/tree/main/docs/addons/remote-languages) for details.
 
-GPL-2.0+ - Same as Tarokina Pro plugin.
+### Repository Structure
 
+```
+releases/
+└── v3.0.3/
+    ├── tarokina-lang-{locale}.zip
+    └── ...
+```
+
+## License
+
+These translations are part of Tarokina Pro and are subject to its license terms.
+
+---
+*Last updated: 2025-12-02*
