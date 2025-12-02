@@ -12,7 +12,7 @@ The Tarokina plugin automatically downloads translation packs from this reposito
 |:----:|----------|--------|-----:|------|
 | 🇹🇼 | Chinese Traditional (Taiwan) | `zh_TW` | 156.0 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-zh_TW.zip) |
 | 🇫🇷 | French (France) | `fr_FR` | 154.8 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-fr_FR.zip) |
-| 🇩🇪 | German (Germany) | `de_DE` | 156.2 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-de_DE.zip) |
+| 🇩🇪 | German (Germany) | `de_DE` | 156.8 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-de_DE.zip) |
 | 🇮🇹 | Italian (Italy) | `it_IT` | 152.3 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-it_IT.zip) |
 | 🇯🇵 | Japanese | `ja` | 162.9 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-ja.zip) |
 | 🇪🇸 | Spanish (Spain) | `es_ES` | 152.0 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-es_ES.zip) |
