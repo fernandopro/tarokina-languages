@@ -10,12 +10,12 @@ The Tarokina plugin automatically downloads translation packs from this reposito
 
 | Flag | Language | Locale | Size | Link |
 |:----:|----------|--------|-----:|------|
-| 🇹🇼 | Chinese Traditional (Taiwan) | `zh_TW` | 156.5 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-zh_TW.zip) |
-| 🇫🇷 | French (France) | `fr_FR` | 155.4 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-fr_FR.zip) |
-| 🇩🇪 | German (Germany) | `de_DE` | 156.8 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-de_DE.zip) |
-| 🇮🇹 | Italian (Italy) | `it_IT` | 152.4 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-it_IT.zip) |
-| 🇯🇵 | Japanese | `ja` | 163.6 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-ja.zip) |
-| 🇪🇸 | Spanish (Spain) | `es_ES` | 152.0 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-es_ES.zip) |
+| 🇹🇼 | Chinese Traditional (Taiwan) | `zh_TW` | 160.8 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-zh_TW.zip) |
+| 🇫🇷 | French (France) | `fr_FR` | 159.6 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-fr_FR.zip) |
+| 🇩🇪 | German (Germany) | `de_DE` | 161.2 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-de_DE.zip) |
+| 🇮🇹 | Italian (Italy) | `it_IT` | 156.5 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-it_IT.zip) |
+| 🇯🇵 | Japanese | `ja` | 168.1 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-ja.zip) |
+| 🇪🇸 | Spanish (Spain) | `es_ES` | 156.2 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-es_ES.zip) |
 
 ## Current Version
 
@@ -54,4 +54,4 @@ releases/
 These translations are part of Tarokina Pro and are subject to its license terms.
 
 ---
-*Last updated: 2025-12-03*
+*Last updated: 2025-12-13*
