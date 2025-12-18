@@ -15,7 +15,7 @@ The Tarokina plugin automatically downloads translation packs from this reposito
 | 🇩🇪 | German (Germany) | `de_DE` | 161.2 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-de_DE.zip) |
 | 🇮🇹 | Italian (Italy) | `it_IT` | 156.5 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-it_IT.zip) |
 | 🇯🇵 | Japanese | `ja` | 168.1 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-ja.zip) |
-| 🇪🇸 | Spanish (Spain) | `es_ES` | 156.2 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-es_ES.zip) |
+| 🇪🇸 | Spanish (Spain) | `es_ES` | 156.3 KB | [Download](https://github.com/fernandopro/tarokina-languages/releases/download/v3.0.3/tarokina-lang-es_ES.zip) |
 
 ## Current Version
 
@@ -54,4 +54,4 @@ releases/
 These translations are part of Tarokina Pro and are subject to its license terms.
 
 ---
-*Last updated: 2025-12-13*
+*Last updated: 2025-12-18*
