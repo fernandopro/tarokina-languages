@@ -19,7 +19,7 @@ The Tarokina plugin automatically downloads translation packs from this reposito
 
 ## Current Version
 
-**v3.0.3** - Compatible with Tarokina Pro v3.0.3
+**v3.0.3** - Language packs release version
 
 ## Installation
 
@@ -54,4 +54,4 @@ releases/
 These translations are part of Tarokina Pro and are subject to its license terms.
 
 ---
-*Last updated: 2026-03-01*
+*Last updated: 2026-03-03*
